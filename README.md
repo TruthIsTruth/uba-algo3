@@ -1,2 +1,2 @@
-# uba-algo3
-Algoritmos y Estructuras de Datos III - 1° Cuatri 2023
+# Algoritmos y Estructuras de Datos III
+1° Cuatrimestre de 2023
